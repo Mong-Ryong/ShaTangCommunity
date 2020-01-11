@@ -18,6 +18,9 @@ import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
+/**
+ *首页
+ */
 @Controller
 public class IndexController {
     @Autowired
